@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="619759d7-e9c5-41cf-aa82-b27e2eb26c45" name="Changes" comment="added comments" />
+    <list default="true" id="619759d7-e9c5-41cf-aa82-b27e2eb26c45" name="Changes" comment="new file created from write_message.py">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programming.txt" beforeDir="false" afterPath="$PROJECT_DIR$/programming.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/write_message.py" beforeDir="false" afterPath="$PROJECT_DIR$/write_message.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,6 +49,7 @@
   "keyToString": {
     "Python.file_reader.executor": "Run",
     "Python.read-learning_python.executor": "Run",
+    "Python.write_message.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "last_opened_file_path": "C:/Users/OLUMIDE/PycharmProjects/PYCHARM-DEMO"
@@ -114,8 +119,51 @@
       <option name="project" value="LOCAL" />
       <updated>1735175084960</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="exercise on reading and printing the content of a file">
+      <option name="closed" value="true" />
+      <created>1735177671296</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1735177671296</updated>
+    </task>
+    <task id="LOCAL-00008" summary=".">
+      <option name="closed" value="true" />
+      <created>1735177691494</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1735177691494</updated>
+    </task>
+    <task id="LOCAL-00009" summary="writing to an empty file">
+      <option name="closed" value="true" />
+      <created>1735207806086</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1735207806086</updated>
+    </task>
+    <task id="LOCAL-00010" summary="new file created from write_message.py">
+      <option name="closed" value="true" />
+      <created>1735207860694</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1735207860694</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="created file_reader.py" />
@@ -124,6 +172,10 @@
     <MESSAGE value="working with a fil'e content" />
     <MESSAGE value="added spaces to the beginning of 2nd &amp; 3rd line" />
     <MESSAGE value="added comments" />
-    <option name="LAST_COMMIT_MESSAGE" value="added comments" />
+    <MESSAGE value="exercise on reading and printing the content of a file" />
+    <MESSAGE value="." />
+    <MESSAGE value="writing to an empty file" />
+    <MESSAGE value="new file created from write_message.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="new file created from write_message.py" />
   </component>
 </project>
