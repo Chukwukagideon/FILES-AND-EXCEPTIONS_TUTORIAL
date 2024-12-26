@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="619759d7-e9c5-41cf-aa82-b27e2eb26c45" name="Changes" comment="broke the digits into 3 lines">
+    <list default="true" id="619759d7-e9c5-41cf-aa82-b27e2eb26c45" name="Changes" comment="added spaces to the beginning of 2nd &amp; 3rd line">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/file_reader.py" beforeDir="false" afterPath="$PROJECT_DIR$/file_reader.py" afterDir="false" />
     </list>
@@ -84,12 +84,39 @@
       <option name="project" value="LOCAL" />
       <updated>1735173149909</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="added code for reading an entire file, reading line by line &amp; making a list from a file">
+      <option name="closed" value="true" />
+      <created>1735173704119</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1735173704119</updated>
+    </task>
+    <task id="LOCAL-00004" summary="working with a fil'e content">
+      <option name="closed" value="true" />
+      <created>1735174620422</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1735174620422</updated>
+    </task>
+    <task id="LOCAL-00005" summary="added spaces to the beginning of 2nd &amp; 3rd line">
+      <option name="closed" value="true" />
+      <created>1735174653590</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1735174653590</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="created file_reader.py" />
     <MESSAGE value="broke the digits into 3 lines" />
-    <option name="LAST_COMMIT_MESSAGE" value="broke the digits into 3 lines" />
+    <MESSAGE value="added code for reading an entire file, reading line by line &amp; making a list from a file" />
+    <MESSAGE value="working with a fil'e content" />
+    <MESSAGE value="added spaces to the beginning of 2nd &amp; 3rd line" />
+    <option name="LAST_COMMIT_MESSAGE" value="added spaces to the beginning of 2nd &amp; 3rd line" />
   </component>
 </project>

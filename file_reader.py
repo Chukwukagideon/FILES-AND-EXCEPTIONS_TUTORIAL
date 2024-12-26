@@ -18,6 +18,8 @@ print()
 
 # Making a list from a file
 with open(filename) as file_object3:
+    # store each line of the file in a list. This allows you to retain access to a file's content
+    # outside the with block
     lines = file_object3.readlines()
 print(lines)
 
