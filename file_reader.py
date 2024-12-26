@@ -23,3 +23,23 @@ print(lines)
 
 for line in lines:
     print(line.rstrip())
+print()
+
+# Working with a file's content
+with open(filename) as file_object4:
+    lines = file_object4.readlines()
+
+pi_string = ""
+PI_STRING = ""
+
+for line in lines:
+    pi_string += line.rstrip()
+
+#     Remove spaces in between by using the strip() method
+    PI_STRING += line.strip()
+
+
+print(pi_string)
+print(len(pi_string))
+print(PI_STRING)
+print(len(PI_STRING))
