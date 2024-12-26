@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="619759d7-e9c5-41cf-aa82-b27e2eb26c45" name="Changes" comment="new file created from write_message.py">
+    <list default="true" id="619759d7-e9c5-41cf-aa82-b27e2eb26c45" name="Changes" comment="created guest.txt from guest.py">
+      <change afterPath="$PROJECT_DIR$/guest_book.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/programming.txt" beforeDir="false" afterPath="$PROJECT_DIR$/programming.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/write_message.py" beforeDir="false" afterPath="$PROJECT_DIR$/write_message.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +47,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.file_reader.executor": "Run",
+    "Python.guest.executor": "Run",
+    "Python.guest_book.executor": "Run",
     "Python.read-learning_python.executor": "Run",
     "Python.write_message.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -151,7 +152,31 @@
       <option name="project" value="LOCAL" />
       <updated>1735207860694</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="updated the files">
+      <option name="closed" value="true" />
+      <created>1735208166498</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1735208166498</updated>
+    </task>
+    <task id="LOCAL-00012" summary="a program that prompts user for their name and writes it to a file called guest.txt">
+      <option name="closed" value="true" />
+      <created>1735208949685</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1735208949685</updated>
+    </task>
+    <task id="LOCAL-00013" summary="created guest.txt from guest.py">
+      <option name="closed" value="true" />
+      <created>1735208974193</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1735208974193</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -176,6 +201,9 @@
     <MESSAGE value="." />
     <MESSAGE value="writing to an empty file" />
     <MESSAGE value="new file created from write_message.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="new file created from write_message.py" />
+    <MESSAGE value="updated the files" />
+    <MESSAGE value="a program that prompts user for their name and writes it to a file called guest.txt" />
+    <MESSAGE value="created guest.txt from guest.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="created guest.txt from guest.py" />
   </component>
 </project>
