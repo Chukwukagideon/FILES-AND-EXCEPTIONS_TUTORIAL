@@ -1,0 +1,6 @@
+# A simple text file containing what i've learnt so far in python
+
+In python you can create variables with using the var keyword. Just assign the value to the name of the variable
+In python you can manipulate files. You can create, open and read files.
+In python you can model real world objects using classes.
+ In python you can define functions.
