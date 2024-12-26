@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="619759d7-e9c5-41cf-aa82-b27e2eb26c45" name="Changes" comment="created guest.txt from guest.py">
-      <change afterPath="$PROJECT_DIR$/guest_book.py" afterDir="false" />
+    <list default="true" id="619759d7-e9c5-41cf-aa82-b27e2eb26c45" name="Changes" comment="the responses gotten from the programming_poll.py are stored here">
+      <change afterPath="$PROJECT_DIR$/exceptions.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,9 +46,11 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.exceptions.executor": "Run",
     "Python.file_reader.executor": "Run",
     "Python.guest.executor": "Run",
     "Python.guest_book.executor": "Run",
+    "Python.programming_poll.executor": "Run",
     "Python.read-learning_python.executor": "Run",
     "Python.write_message.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -176,7 +178,39 @@
       <option name="project" value="LOCAL" />
       <updated>1735208974193</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="added time of entry each guest">
+      <option name="closed" value="true" />
+      <created>1735211116496</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1735211116496</updated>
+    </task>
+    <task id="LOCAL-00015" summary="created from guest_book.py">
+      <option name="closed" value="true" />
+      <created>1735211143249</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1735211143249</updated>
+    </task>
+    <task id="LOCAL-00016" summary="created a simplified programming poll to take the reasons people like programming and store it in a new file">
+      <option name="closed" value="true" />
+      <created>1735211889284</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1735211889284</updated>
+    </task>
+    <task id="LOCAL-00017" summary="the responses gotten from the programming_poll.py are stored here">
+      <option name="closed" value="true" />
+      <created>1735211920694</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1735211920694</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -204,6 +238,10 @@
     <MESSAGE value="updated the files" />
     <MESSAGE value="a program that prompts user for their name and writes it to a file called guest.txt" />
     <MESSAGE value="created guest.txt from guest.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="created guest.txt from guest.py" />
+    <MESSAGE value="added time of entry each guest" />
+    <MESSAGE value="created from guest_book.py" />
+    <MESSAGE value="created a simplified programming poll to take the reasons people like programming and store it in a new file" />
+    <MESSAGE value="the responses gotten from the programming_poll.py are stored here" />
+    <option name="LAST_COMMIT_MESSAGE" value="the responses gotten from the programming_poll.py are stored here" />
   </component>
 </project>
