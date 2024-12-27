@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="619759d7-e9c5-41cf-aa82-b27e2eb26c45" name="Changes" comment="handling errors and exception using the try except methods">
-      <change beforePath="$PROJECT_DIR$/exceptions.py" beforeDir="false" afterPath="$PROJECT_DIR$/exceptions.py" afterDir="false" />
+    <list default="true" id="619759d7-e9c5-41cf-aa82-b27e2eb26c45" name="Changes" comment="Initial commit for a program that reads and prints the names of pets stored in a file">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pets_file_reader.py" beforeDir="false" afterPath="$PROJECT_DIR$/pets_file_reader.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +35,9 @@
     "accountId": "b270f3f1-e66b-4b9e-8f96-895f59cb0a03"
   }
 }]]></component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -49,6 +53,7 @@
     "Python.file_reader.executor": "Run",
     "Python.guest.executor": "Run",
     "Python.guest_book.executor": "Run",
+    "Python.pets_file_reader.executor": "Run",
     "Python.programming_poll.executor": "Run",
     "Python.read-learning_python.executor": "Run",
     "Python.write_message.executor": "Run",
@@ -217,7 +222,23 @@
       <option name="project" value="LOCAL" />
       <updated>1735249200605</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="wrapped the code in a while loop and making the calculator able to handle errors without crashing">
+      <option name="closed" value="true" />
+      <created>1735282950047</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1735282950047</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Initial commit for a program that reads and prints the names of pets stored in a file">
+      <option name="closed" value="true" />
+      <created>1735283426293</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1735283426293</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -250,6 +271,8 @@
     <MESSAGE value="created a simplified programming poll to take the reasons people like programming and store it in a new file" />
     <MESSAGE value="the responses gotten from the programming_poll.py are stored here" />
     <MESSAGE value="handling errors and exception using the try except methods" />
-    <option name="LAST_COMMIT_MESSAGE" value="handling errors and exception using the try except methods" />
+    <MESSAGE value="wrapped the code in a while loop and making the calculator able to handle errors without crashing" />
+    <MESSAGE value="Initial commit for a program that reads and prints the names of pets stored in a file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit for a program that reads and prints the names of pets stored in a file" />
   </component>
 </project>
