@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="619759d7-e9c5-41cf-aa82-b27e2eb26c45" name="Changes" comment="Initial commit for a program that reads and prints the names of pets stored in a file">
+    <list default="true" id="619759d7-e9c5-41cf-aa82-b27e2eb26c45" name="Changes" comment="modified the except block to fail silently.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pets_file_reader.py" beforeDir="false" afterPath="$PROJECT_DIR$/pets_file_reader.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -238,7 +237,23 @@
       <option name="project" value="LOCAL" />
       <updated>1735283426293</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="added try except block to handle FileNotFoundError that may arise due to some missing files.">
+      <option name="closed" value="true" />
+      <created>1735283792881</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1735283792881</updated>
+    </task>
+    <task id="LOCAL-00022" summary="modified the except block to fail silently.">
+      <option name="closed" value="true" />
+      <created>1735284142673</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1735284142673</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -273,6 +288,8 @@
     <MESSAGE value="handling errors and exception using the try except methods" />
     <MESSAGE value="wrapped the code in a while loop and making the calculator able to handle errors without crashing" />
     <MESSAGE value="Initial commit for a program that reads and prints the names of pets stored in a file" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit for a program that reads and prints the names of pets stored in a file" />
+    <MESSAGE value="added try except block to handle FileNotFoundError that may arise due to some missing files." />
+    <MESSAGE value="modified the except block to fail silently." />
+    <option name="LAST_COMMIT_MESSAGE" value="modified the except block to fail silently." />
   </component>
 </project>
