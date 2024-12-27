@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="619759d7-e9c5-41cf-aa82-b27e2eb26c45" name="Changes" comment="modified the except block to fail silently.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="619759d7-e9c5-41cf-aa82-b27e2eb26c45" name="Changes" comment="initial commit">
+      <change afterPath="$PROJECT_DIR$/word_finder.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book_reader.py" beforeDir="false" afterPath="$PROJECT_DIR$/book_reader.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,8 +35,11 @@
     "accountId": "b270f3f1-e66b-4b9e-8f96-895f59cb0a03"
   }
 }]]></component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/book_reader.py" root0="SKIP_INSPECTION" />
+  </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
@@ -48,6 +52,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.book_reader.executor": "Run",
     "Python.exceptions.executor": "Run",
     "Python.file_reader.executor": "Run",
     "Python.guest.executor": "Run",
@@ -55,6 +60,7 @@
     "Python.pets_file_reader.executor": "Run",
     "Python.programming_poll.executor": "Run",
     "Python.read-learning_python.executor": "Run",
+    "Python.word_finder.executor": "Run",
     "Python.write_message.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -253,7 +259,15 @@
       <option name="project" value="LOCAL" />
       <updated>1735284142673</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="initial commit">
+      <option name="closed" value="true" />
+      <created>1735284622766</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1735284622766</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -290,6 +304,7 @@
     <MESSAGE value="Initial commit for a program that reads and prints the names of pets stored in a file" />
     <MESSAGE value="added try except block to handle FileNotFoundError that may arise due to some missing files." />
     <MESSAGE value="modified the except block to fail silently." />
-    <option name="LAST_COMMIT_MESSAGE" value="modified the except block to fail silently." />
+    <MESSAGE value="initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
   </component>
 </project>
