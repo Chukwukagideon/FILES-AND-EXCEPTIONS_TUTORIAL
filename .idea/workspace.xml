@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="619759d7-e9c5-41cf-aa82-b27e2eb26c45" name="Changes" comment="LEARNING JSON MODULE. a simple code to prompt a user for their name and store it in a json file.">
+    <list default="true" id="619759d7-e9c5-41cf-aa82-b27e2eb26c45" name="Changes" comment="LEARNING JSON MODULE. Using try except block to get a stored username and if the username is not saved (i.e json file not found), it should prompt for a name and then save it to a json file.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Remeber_me.py" beforeDir="false" afterPath="$PROJECT_DIR$/Remeber_me.py" afterDir="false" />
     </list>
@@ -300,7 +300,15 @@
       <option name="project" value="LOCAL" />
       <updated>1736420405483</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="LEARNING JSON MODULE. Using try except block to get a stored username and if the username is not saved (i.e json file not found), it should prompt for a name and then save it to a json file.">
+      <option name="closed" value="true" />
+      <created>1736421731234</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1736421731234</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -315,7 +323,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="added code for reading an entire file, reading line by line &amp; making a list from a file" />
     <MESSAGE value="working with a fil'e content" />
     <MESSAGE value="added spaces to the beginning of 2nd &amp; 3rd line" />
     <MESSAGE value="added comments" />
@@ -340,6 +347,7 @@
     <MESSAGE value="created a program that allows a user to search for a specific word from a file and displays its occurrence both in and out of context." />
     <MESSAGE value="updated the code to make it better at handling errors and added more comments." />
     <MESSAGE value="LEARNING JSON MODULE. a simple code to prompt a user for their name and store it in a json file." />
-    <option name="LAST_COMMIT_MESSAGE" value="LEARNING JSON MODULE. a simple code to prompt a user for their name and store it in a json file." />
+    <MESSAGE value="LEARNING JSON MODULE. Using try except block to get a stored username and if the username is not saved (i.e json file not found), it should prompt for a name and then save it to a json file." />
+    <option name="LAST_COMMIT_MESSAGE" value="LEARNING JSON MODULE. Using try except block to get a stored username and if the username is not saved (i.e json file not found), it should prompt for a name and then save it to a json file." />
   </component>
 </project>
