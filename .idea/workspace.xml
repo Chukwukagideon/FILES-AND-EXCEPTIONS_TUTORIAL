@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="619759d7-e9c5-41cf-aa82-b27e2eb26c45" name="Changes" comment="initial commit">
-      <change afterPath="$PROJECT_DIR$/word_finder.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book_reader.py" beforeDir="false" afterPath="$PROJECT_DIR$/book_reader.py" afterDir="false" />
+    <list default="true" id="619759d7-e9c5-41cf-aa82-b27e2eb26c45" name="Changes" comment="updated the code to make it better at handling errors and added more comments.">
+      <change afterPath="$PROJECT_DIR$/Remeber_me.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,18 +23,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Chukwukagideon"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Chukwukagideon&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Chukwukagideon/FILES-AND-EXCEPTIONS_TUTORIAL.git",
-    "accountId": "b270f3f1-e66b-4b9e-8f96-895f59cb0a03"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Chukwukagideon/FILES-AND-EXCEPTIONS_TUTORIAL.git&quot;,
+    &quot;accountId&quot;: &quot;b270f3f1-e66b-4b9e-8f96-895f59cb0a03&quot;
   }
-}]]></component>
+}</component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/book_reader.py" root0="SKIP_INSPECTION" />
   </component>
@@ -50,23 +50,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.book_reader.executor": "Run",
-    "Python.exceptions.executor": "Run",
-    "Python.file_reader.executor": "Run",
-    "Python.guest.executor": "Run",
-    "Python.guest_book.executor": "Run",
-    "Python.pets_file_reader.executor": "Run",
-    "Python.programming_poll.executor": "Run",
-    "Python.read-learning_python.executor": "Run",
-    "Python.word_finder.executor": "Run",
-    "Python.write_message.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/OLUMIDE/PycharmProjects/PYCHARM-DEMO"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.book_reader.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exceptions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.file_reader.executor&quot;: &quot;Run&quot;,
+    &quot;Python.guest.executor&quot;: &quot;Run&quot;,
+    &quot;Python.guest_book.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pets_file_reader.executor&quot;: &quot;Run&quot;,
+    &quot;Python.programming_poll.executor&quot;: &quot;Run&quot;,
+    &quot;Python.read-learning_python.executor&quot;: &quot;Run&quot;,
+    &quot;Python.word_finder.executor&quot;: &quot;Run&quot;,
+    &quot;Python.write_message.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/OLUMIDE/PycharmProjects/PYCHARM-DEMO&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -267,7 +267,31 @@
       <option name="project" value="LOCAL" />
       <updated>1735284622766</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="created a function to read the contents of a file and count the number of specified word">
+      <option name="closed" value="true" />
+      <created>1735291703204</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1735291703204</updated>
+    </task>
+    <task id="LOCAL-00025" summary="created a program that allows a user to search for a specific word from a file and displays its occurrence both in and out of context.">
+      <option name="closed" value="true" />
+      <created>1735291874203</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1735291874203</updated>
+    </task>
+    <task id="LOCAL-00026" summary="updated the code to make it better at handling errors and added more comments.">
+      <option name="closed" value="true" />
+      <created>1735293434311</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1735293434311</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -282,7 +306,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="created file_reader.py" />
     <MESSAGE value="broke the digits into 3 lines" />
     <MESSAGE value="added code for reading an entire file, reading line by line &amp; making a list from a file" />
     <MESSAGE value="working with a fil'e content" />
@@ -305,6 +328,9 @@
     <MESSAGE value="added try except block to handle FileNotFoundError that may arise due to some missing files." />
     <MESSAGE value="modified the except block to fail silently." />
     <MESSAGE value="initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+    <MESSAGE value="created a function to read the contents of a file and count the number of specified word" />
+    <MESSAGE value="created a program that allows a user to search for a specific word from a file and displays its occurrence both in and out of context." />
+    <MESSAGE value="updated the code to make it better at handling errors and added more comments." />
+    <option name="LAST_COMMIT_MESSAGE" value="updated the code to make it better at handling errors and added more comments." />
   </component>
 </project>
