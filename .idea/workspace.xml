@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="619759d7-e9c5-41cf-aa82-b27e2eb26c45" name="Changes" comment="json file">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Remeber_me.py" beforeDir="false" afterPath="$PROJECT_DIR$/Remeber_me.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/username.json" beforeDir="false" afterPath="$PROJECT_DIR$/username.json" afterDir="false" />
+    <list default="true" id="619759d7-e9c5-41cf-aa82-b27e2eb26c45" name="Changes" comment="initial commit">
+      <change beforePath="$PROJECT_DIR$/fav_number.py" beforeDir="false" afterPath="$PROJECT_DIR$/fav_number.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +54,7 @@
     "Python.Remeber_me.executor": "Run",
     "Python.book_reader.executor": "Run",
     "Python.exceptions.executor": "Run",
+    "Python.fav_number.executor": "Run",
     "Python.file_reader.executor": "Run",
     "Python.guest.executor": "Run",
     "Python.guest_book.executor": "Run",
@@ -325,7 +324,23 @@
       <option name="project" value="LOCAL" />
       <updated>1736422941728</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="add a check to verify if the username matches with current user before running the program">
+      <option name="closed" value="true" />
+      <created>1736424315330</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1736424315330</updated>
+    </task>
+    <task id="LOCAL-00032" summary="initial commit">
+      <option name="closed" value="true" />
+      <created>1736424372367</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1736424372367</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -340,7 +355,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="added comments" />
     <MESSAGE value="exercise on reading and printing the content of a file" />
     <MESSAGE value="." />
     <MESSAGE value="writing to an empty file" />
@@ -357,7 +371,6 @@
     <MESSAGE value="Initial commit for a program that reads and prints the names of pets stored in a file" />
     <MESSAGE value="added try except block to handle FileNotFoundError that may arise due to some missing files." />
     <MESSAGE value="modified the except block to fail silently." />
-    <MESSAGE value="initial commit" />
     <MESSAGE value="created a function to read the contents of a file and count the number of specified word" />
     <MESSAGE value="created a program that allows a user to search for a specific word from a file and displays its occurrence both in and out of context." />
     <MESSAGE value="updated the code to make it better at handling errors and added more comments." />
@@ -365,6 +378,8 @@
     <MESSAGE value="LEARNING JSON MODULE. Using try except block to get a stored username and if the username is not saved (i.e json file not found), it should prompt for a name and then save it to a json file." />
     <MESSAGE value="LEARNT REFACTORING. REFACTORED THE CODE INTO FUNCTIONS" />
     <MESSAGE value="json file" />
-    <option name="LAST_COMMIT_MESSAGE" value="json file" />
+    <MESSAGE value="add a check to verify if the username matches with current user before running the program" />
+    <MESSAGE value="initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
   </component>
 </project>
