@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="619759d7-e9c5-41cf-aa82-b27e2eb26c45" name="Changes" comment="initial commit">
-      <change beforePath="$PROJECT_DIR$/fav_number.py" beforeDir="false" afterPath="$PROJECT_DIR$/fav_number.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/read_fav_number.py" beforeDir="false" afterPath="$PROJECT_DIR$/read_fav_number.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,6 +61,7 @@
     "Python.pets_file_reader.executor": "Run",
     "Python.programming_poll.executor": "Run",
     "Python.read-learning_python.executor": "Run",
+    "Python.read_fav_number.executor": "Run",
     "Python.word_finder.executor": "Run",
     "Python.write_message.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -340,7 +341,23 @@
       <option name="project" value="LOCAL" />
       <updated>1736424372367</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="add code to prompt user for favorite number and store it in a json file">
+      <option name="closed" value="true" />
+      <created>1736424749663</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1736424749663</updated>
+    </task>
+    <task id="LOCAL-00034" summary="initial commit">
+      <option name="closed" value="true" />
+      <created>1736424764659</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1736424764659</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -355,7 +372,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="exercise on reading and printing the content of a file" />
     <MESSAGE value="." />
     <MESSAGE value="writing to an empty file" />
     <MESSAGE value="new file created from write_message.py" />
@@ -379,6 +395,7 @@
     <MESSAGE value="LEARNT REFACTORING. REFACTORED THE CODE INTO FUNCTIONS" />
     <MESSAGE value="json file" />
     <MESSAGE value="add a check to verify if the username matches with current user before running the program" />
+    <MESSAGE value="add code to prompt user for favorite number and store it in a json file" />
     <MESSAGE value="initial commit" />
     <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
   </component>
