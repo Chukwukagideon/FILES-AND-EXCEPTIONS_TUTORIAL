@@ -68,9 +68,11 @@ def get_new_username():
 
 def greet_user():
     """A function to greet a user by name"""
+    # ask the user to confirm the correct username
     username = get_stored_username()
+    confirmation = input(f"Hello There! is {username}, your correct username. Y/N? ").upper()
 
-    if username:
+    if confirmation == "y".upper():
         print(f"Welcome back {username}")
     else:
         username = get_new_username()
